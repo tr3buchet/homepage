@@ -1,4 +1,4 @@
-I got tired of trying to have a similar home or new tab page as I moved 
+I got tired of trying to have a similar home or new tab page as I moved
 back and forth between different browsers, so I made one for myself. This
 is the first pass. I plan on extending this to do some introspection of
 available icons to make it easier to add more without having to edit the
@@ -9,3 +9,7 @@ predictable browsing experience.
 
 home.html expects a ./icons directory to exist and be populated with
 icons which are currently specified in the html.
+
+
+My reference:
+icons are made with a rounded rectangle tool using radius 35px in photoshop
